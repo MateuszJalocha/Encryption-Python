@@ -1,24 +1,36 @@
-Instrukcja obs≥ugi:
-Do odpalenia potrzebny jest program PyCharm.
-Po uruchomieniu siÍ programu mamy do dyspozycji trzy szyfry: wiadomoúÊ moøna zarÛwno zaszyfrowaÊ, jak i odszyfrowaÊ.
-W tym celu w pole naleøy wpisaÊ wybranπ przez siebie wiadomoúÊ, a nastÍpnie kliknπÊ na guzik z wybranym szyfrem.
-Do szyfru podstawieniowego i p≥otkowego naleøy wybraÊ klucz. W przypadku szyfru podstawieniowego wskazuje on,
-o ile liter mamy siÍ przesunπÊ (zakres: od 0 do 25). Co do szyfru p≥otkowego, wskazuje on liczbÍ wierszy,
-do ktÛrych bÍdπ przypisywane litery.
-Odszyfrowana/zaszyfrowana treúÊ ukaøe siÍ nad polem do wpisywania wiadomoúci.
-W celu zakoÒczenia pracy z programem naleøy wybraÊ okienko "ZakoÒcz".
+# Encryption in Python
 
-KrÛtka charakterystyka uøytych szyfrÛw:
-1.Szyfr podstawieniowy - jego dzia≥anie polega na zamianie kaødego znaku alfabetu ≥aciÒskiego 
-na znak wystÍpujπcy x pozycji po nim, przy czym wielkoúÊ liter nie ma przy przekszta≥caniu znaczenia.
-2.Szyfr p≥otkowy - jego dzia≥anie polega na przestawieniu kolejnoúci liter,
-bazujπc na uproszczonym kszta≥cie drewnianego p≥otku (p≥otek ma tyle poziomÛw, ile wynosi jego klucz).
-Litery odczytuje siÍ wierszami z gÛry na dÛ≥.
-3.Szyfr dwukwadratowy - dzieli tekst jawny wiadomoúci na grupy znakÛw, a nastÍpnie kaødej z tych grup przyporzπdkowuje
-jednπ z innych, wczeúniej zdefiniowanπ grup znakÛw (dwuliterowπ). W naszym przypadku zastosowaliúmy z gÛry okreúlone
-klucze, ktÛre pozwalajπ na utworzenie dwÛch kwadratÛw z literami s≥uøπcymi do szyfrowania grup znakÛw.
+The project was carried out in the first year of studies as part of the Python classes, where the aim was to create an application with basic UI.  It included encryption and decryption, and it is the ciphers used that count: ** Substitution cipher **, ** Rail fence cipher **, ** Two square cipher **
 
-èrÛd≥a, z ktÛrych korzystaliúmy przy tworzeniu projektu:
-1.Szyfr podstawieniowy (szyfruj1, deszyfruj1): http://www.crypto-it.net/pl/proste/szyfr-cezara.html?tab=2
-2.Szyfr p≥otkowy (szyfruj3): http://www.crypto-it.net/pl/proste/szyfr-plotkowy.html?tab=2
-3.Szyfr dwukwadratowy (szyfruj2): http://www.crypto-it.net/pl/proste/dwukwadratowy.html?tab=2
+## Operating instructions
+
+To run the application you need the Python compiler (PyCharm, Spyder).
+When the program starts, we have three ciphers: the message can be both encrypted and deciphered. 
+In order to do so, you need to enter the selected message in the field and then click on the button with the selected cipher. 
+For the substition and rail fence cipher you have to choose a key. In case of the substition cipher, it indicates,
+if the letters are to move (range: 0 to 25). As for the hurdle code, it indicates the number of lines,
+to which letters will be assigned. 
+Decrypted/encrypted content will appear above the message entry field. 
+In order to finish working with the program, select the "Finish" window.
+
+## Characteristics of ciphers
+
+- ** Substitution cipher ** - It works by converting each character of the Latin alphabet into a character appearing x positions after it, with no case-sensitivity when transforming the meaning
+- ** Rail fence cipher ** - It works by reordered the order of letters,
+based on the simplified shape of the wooden fence (the fence has as many levels as its key). The letters are read in lines from top to bottom.
+- ** Two square cipher ** - It divides the plain text of a message into character groups, and then assigns one of the other predefined character groups (two-letter) to each of these groups. In our case, we used predefined keys that allow us to create two squares with letters used to encrypt character groups.
+
+## Contributors
+
+- ** Mateusz Ja≈Çocha ** (mat.jalocha@gmail.com)
+
+- ** Jakub Ignatik ** (https://github.com/JakubIg)
+
+## Sources
+
+- ** Substitution cipher ** (szyfruj1, deszyfruj2): http://www.crypto-it.net/pl/proste/szyfr-cezara.html?tab=2
+
+- ** Rail fence cipher ** (szyfruj3): http://www.crypto-it.net/pl/proste/szyfr-plotkowy.html?tab=2
+
+- ** Two square cipher ** (szyfruj2): http://www.crypto-it.net/pl/proste/dwukwadratowy.html?tab=2
+
