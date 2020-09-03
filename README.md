@@ -17,6 +17,14 @@ to which letters will be assigned.
 Decrypted/encrypted content will appear above the message entry field. 
 In order to finish working with the program, select the "Finish" window.
 
+## Libraries
+
+- **tkinter**
+
+- **sys**
+
+- **math**
+
 ## Characteristics of ciphers
 
 - **Substitution cipher** - It works by converting each character of the Latin alphabet into a character appearing x positions after it, with no case-sensitivity when transforming the meaning
