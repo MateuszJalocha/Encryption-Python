@@ -2,6 +2,8 @@
 
 The project was carried out in the first year of studies as part of the Python classes, where the aim was to create an application with basic UI.  It included encryption and decryption, and it is the ciphers used that count: **Substitution cipher**, **Rail fence cipher**, **Two square cipher**
 
+<img src ="Images/EncodingPython1.png" >
+
 ## Operating instructions
 
 To run the application you need the Python compiler (PyCharm, Spyder).
