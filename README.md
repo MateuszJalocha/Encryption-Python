@@ -17,6 +17,13 @@ to which letters will be assigned.
 Decrypted/encrypted content will appear above the message entry field. 
 In order to finish working with the program, select the "Finish" window.
 
+## Files
+
+The analysis file is made in Polish, but comments in the files with code are in English.
+
+- **Encryption Python directory** - you can find there a project file
+- **Images directory** - you can find there plots included in README
+
 ## Libraries
 
 - **tkinter**
