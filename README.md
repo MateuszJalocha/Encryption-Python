@@ -1,6 +1,6 @@
 # Encryption in Python
 
-The project was carried out in the first year of studies as part of the Python classes, where the aim was to create an application with basic UI.  It included encryption and decryption, and it is the ciphers used that count: **Substitution cipher**, **Rail fence cipher**, **Two square cipher**
+The project was carried out in the first year of studies as part of the Python classes, where the aim was to create an application with basic UI.  It included encryption and decryption, and it is the ciphers used that count: **Substitution cipher**, **Rail fence cipher**, **Two square cipher**. The following screenshots show an example of code operation.
 
 <p align="center">
 <img align = "center" src ="Images/EncodingPython1.png" /> <img align = "center" src ="Images/EncodingPython2.png" />
