@@ -41,7 +41,7 @@ based on the simplified shape of the wooden fence (the fence has as many levels 
 
 ## Contributors
 
-- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jałocha)
+- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jalocha)
 
 - **Jakub Ignatik** (https://github.com/JakubIg, https://www.linkedin.com/in/jakub-ignatik/)
 
