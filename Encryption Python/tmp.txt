@@ -1,1 +1,465 @@
-</tns:WprowadzenieDoSprawozdaniaFinansowego><tns:Bilans><jin:Aktywa><dtsf:KwotaA>1405034.30</dtsf:KwotaA><dtsf:KwotaB>1218305.25</dtsf:KwotaB><jin:Aktywa_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_I_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_I_1><jin:Aktywa_A_I_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_I_2><jin:Aktywa_A_I_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_I_3><jin:Aktywa_A_I_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_I_4></jin:Aktywa_A_I><jin:Aktywa_A_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_II_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_II_1_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_1_A><jin:Aktywa_A_II_1_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_1_B><jin:Aktywa_A_II_1_C><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_1_C><jin:Aktywa_A_II_1_D><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_1_D><jin:Aktywa_A_II_1_E><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_1_E></jin:Aktywa_A_II_1><jin:Aktywa_A_II_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_2><jin:Aktywa_A_II_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_II_3></jin:Aktywa_A_II><jin:Aktywa_A_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_III_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_III_1><jin:Aktywa_A_III_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_III_2><jin:Aktywa_A_III_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_III_3></jin:Aktywa_A_III><jin:Aktywa_A_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_IV_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_1><jin:Aktywa_A_IV_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_2><jin:Aktywa_A_IV_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_IV_3_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_IV_3_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_A_1><jin:Aktywa_A_IV_3_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_A_2><jin:Aktywa_A_IV_3_A_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_A_3><jin:Aktywa_A_IV_3_A_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_A_4></jin:Aktywa_A_IV_3_A><jin:Aktywa_A_IV_3_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_IV_3_B_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_B_1><jin:Aktywa_A_IV_3_B_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_B_2><jin:Aktywa_A_IV_3_B_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_B_3><jin:Aktywa_A_IV_3_B_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_B_4></jin:Aktywa_A_IV_3_B><jin:Aktywa_A_IV_3_C><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_IV_3_C_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_C_1><jin:Aktywa_A_IV_3_C_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_C_2><jin:Aktywa_A_IV_3_C_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_C_3><jin:Aktywa_A_IV_3_C_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_3_C_4></jin:Aktywa_A_IV_3_C></jin:Aktywa_A_IV_3><jin:Aktywa_A_IV_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_IV_4></jin:Aktywa_A_IV><jin:Aktywa_A_V><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_A_V_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_V_1><jin:Aktywa_A_V_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_A_V_2></jin:Aktywa_A_V></jin:Aktywa_A><jin:Aktywa_B><dtsf:KwotaA>1405034.30</dtsf:KwotaA><dtsf:KwotaB>1218305.25</dtsf:KwotaB><jin:Aktywa_B_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_I_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_I_1><jin:Aktywa_B_I_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_I_2><jin:Aktywa_B_I_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_I_3><jin:Aktywa_B_I_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_I_4><jin:Aktywa_B_I_5><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_I_5></jin:Aktywa_B_I><jin:Aktywa_B_II><dtsf:KwotaA>1382852.23</dtsf:KwotaA><dtsf:KwotaB>1025616.28</dtsf:KwotaB><jin:Aktywa_B_II_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_II_1_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_II_1_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_1_A_1><jin:Aktywa_B_II_1_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_1_A_2></jin:Aktywa_B_II_1_A><jin:Aktywa_B_II_1_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_1_B></jin:Aktywa_B_II_1><jin:Aktywa_B_II_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_II_2_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_II_2_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_2_A_1><jin:Aktywa_B_II_2_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_2_A_2></jin:Aktywa_B_II_2_A><jin:Aktywa_B_II_2_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_2_B></jin:Aktywa_B_II_2><jin:Aktywa_B_II_3><dtsf:KwotaA>1382852.23</dtsf:KwotaA><dtsf:KwotaB>1025616.28</dtsf:KwotaB><jin:Aktywa_B_II_3_A><dtsf:KwotaA>984843.85</dtsf:KwotaA><dtsf:KwotaB>892443.77</dtsf:KwotaB><jin:Aktywa_B_II_3_A_1><dtsf:KwotaA>984843.85</dtsf:KwotaA><dtsf:KwotaB>892443.77</dtsf:KwotaB></jin:Aktywa_B_II_3_A_1><jin:Aktywa_B_II_3_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_3_A_2></jin:Aktywa_B_II_3_A><jin:Aktywa_B_II_3_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_3_B><jin:Aktywa_B_II_3_C><dtsf:KwotaA>398008.38</dtsf:KwotaA><dtsf:KwotaB>128481.72</dtsf:KwotaB></jin:Aktywa_B_II_3_C><jin:Aktywa_B_II_3_D><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_II_3_D></jin:Aktywa_B_II_3></jin:Aktywa_B_II><jin:Aktywa_B_III><dtsf:KwotaA>22182.07</dtsf:KwotaA><dtsf:KwotaB>192688.97</dtsf:KwotaB><jin:Aktywa_B_III_1><dtsf:KwotaA>22182.07</dtsf:KwotaA><dtsf:KwotaB>192688.97</dtsf:KwotaB><jin:Aktywa_B_III_1_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_III_1_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_A_1><jin:Aktywa_B_III_1_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_A_2><jin:Aktywa_B_III_1_A_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_A_3><jin:Aktywa_B_III_1_A_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_A_4></jin:Aktywa_B_III_1_A><jin:Aktywa_B_III_1_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Aktywa_B_III_1_B_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_B_1><jin:Aktywa_B_III_1_B_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_B_2><jin:Aktywa_B_III_1_B_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_B_3><jin:Aktywa_B_III_1_B_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_B_4></jin:Aktywa_B_III_1_B><jin:Aktywa_B_III_1_C><dtsf:KwotaA>22182.07</dtsf:KwotaA><dtsf:KwotaB>192688.97</dtsf:KwotaB><jin:Aktywa_B_III_1_C_1><dtsf:KwotaA>22182.07</dtsf:KwotaA><dtsf:KwotaB>192688.97</dtsf:KwotaB></jin:Aktywa_B_III_1_C_1><jin:Aktywa_B_III_1_C_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_C_2><jin:Aktywa_B_III_1_C_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_1_C_3></jin:Aktywa_B_III_1_C></jin:Aktywa_B_III_1><jin:Aktywa_B_III_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_III_2></jin:Aktywa_B_III><jin:Aktywa_B_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_B_IV></jin:Aktywa_B><jin:Aktywa_C><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_C><jin:Aktywa_D><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Aktywa_D></jin:Aktywa><jin:Pasywa><dtsf:KwotaA>1405034.30</dtsf:KwotaA><dtsf:KwotaB>1218305.25</dtsf:KwotaB><jin:Pasywa_A><dtsf:KwotaA>678201.08</dtsf:KwotaA><dtsf:KwotaB>619958.36</dtsf:KwotaB><jin:Pasywa_A_I><dtsf:KwotaA>5000.00</dtsf:KwotaA><dtsf:KwotaB>5000.00</dtsf:KwotaB></jin:Pasywa_A_I><jin:Pasywa_A_II><dtsf:KwotaA>164651.53</dtsf:KwotaA><dtsf:KwotaB>164651.53</dtsf:KwotaB><jin:Pasywa_A_II_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_A_II_1></jin:Pasywa_A_II><jin:Pasywa_A_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_A_III_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_A_III_1></jin:Pasywa_A_III><jin:Pasywa_A_IV><dtsf:KwotaA>69000.00</dtsf:KwotaA><dtsf:KwotaB>69000.00</dtsf:KwotaB><jin:Pasywa_A_IV_1><dtsf:KwotaA>69000.00</dtsf:KwotaA><dtsf:KwotaB>69000.00</dtsf:KwotaB></jin:Pasywa_A_IV_1><jin:Pasywa_A_IV_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_A_IV_2></jin:Pasywa_A_IV><jin:Pasywa_A_V><dtsf:KwotaA>381306.83</dtsf:KwotaA><dtsf:KwotaB>77674.33</dtsf:KwotaB></jin:Pasywa_A_V><jin:Pasywa_A_VI><dtsf:KwotaA>58242.72</dtsf:KwotaA><dtsf:KwotaB>303632.50</dtsf:KwotaB></jin:Pasywa_A_VI><jin:Pasywa_A_VII><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_A_VII></jin:Pasywa_A><jin:Pasywa_B><dtsf:KwotaA>726833.22</dtsf:KwotaA><dtsf:KwotaB>598346.89</dtsf:KwotaB><jin:Pasywa_B_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_I_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_I_1><jin:Pasywa_B_I_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_I_2_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_I_2_1><jin:Pasywa_B_I_2_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_I_2_2></jin:Pasywa_B_I_2><jin:Pasywa_B_I_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_I_3_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_I_3_1><jin:Pasywa_B_I_3_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_I_3_2></jin:Pasywa_B_I_3></jin:Pasywa_B_I><jin:Pasywa_B_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_II_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_1><jin:Pasywa_B_II_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_2><jin:Pasywa_B_II_3><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_II_3_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_3_A><jin:Pasywa_B_II_3_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_3_B><jin:Pasywa_B_II_3_C><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_3_C><jin:Pasywa_B_II_3_D><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_3_D><jin:Pasywa_B_II_3_E><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_II_3_E></jin:Pasywa_B_II_3></jin:Pasywa_B_II><jin:Pasywa_B_III><dtsf:KwotaA>726833.22</dtsf:KwotaA><dtsf:KwotaB>598346.89</dtsf:KwotaB><jin:Pasywa_B_III_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_III_1_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_III_1_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_1_A_1><jin:Pasywa_B_III_1_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_1_A_2></jin:Pasywa_B_III_1_A><jin:Pasywa_B_III_1_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_1_B></jin:Pasywa_B_III_1><jin:Pasywa_B_III_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_III_2_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_III_2_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_2_A_1><jin:Pasywa_B_III_2_A_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_2_A_2></jin:Pasywa_B_III_2_A><jin:Pasywa_B_III_2_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_2_B></jin:Pasywa_B_III_2><jin:Pasywa_B_III_3><dtsf:KwotaA>726833.22</dtsf:KwotaA><dtsf:KwotaB>598346.89</dtsf:KwotaB><jin:Pasywa_B_III_3_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_A><jin:Pasywa_B_III_3_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_B><jin:Pasywa_B_III_3_C><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_C><jin:Pasywa_B_III_3_D><dtsf:KwotaA>691533.54</dtsf:KwotaA><dtsf:KwotaB>545228.43</dtsf:KwotaB><jin:Pasywa_B_III_3_D_1><dtsf:KwotaA>691533.54</dtsf:KwotaA><dtsf:KwotaB>545228.43</dtsf:KwotaB></jin:Pasywa_B_III_3_D_1><jin:Pasywa_B_III_3_D_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_D_2></jin:Pasywa_B_III_3_D><jin:Pasywa_B_III_3_E><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_E><jin:Pasywa_B_III_3_F><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_F><jin:Pasywa_B_III_3_G><dtsf:KwotaA>35299.68</dtsf:KwotaA><dtsf:KwotaB>53118.46</dtsf:KwotaB></jin:Pasywa_B_III_3_G><jin:Pasywa_B_III_3_H><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_H><jin:Pasywa_B_III_3_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_3_I></jin:Pasywa_B_III_3><jin:Pasywa_B_III_4><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_III_4></jin:Pasywa_B_III><jin:Pasywa_B_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_IV_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_IV_1><jin:Pasywa_B_IV_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:Pasywa_B_IV_2_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_IV_2_1><jin:Pasywa_B_IV_2_2><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:Pasywa_B_IV_2_2></jin:Pasywa_B_IV_2></jin:Pasywa_B_IV></jin:Pasywa_B></jin:Pasywa></tns:Bilans><tns:RZiS><jin:RZiSPor><jin:A><dtsf:KwotaA>1160968.61</dtsf:KwotaA><dtsf:KwotaB>2444472.05</dtsf:KwotaB><jin:A_J><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:A_J><jin:A_I><dtsf:KwotaA>1160968.61</dtsf:KwotaA><dtsf:KwotaB>2444472.05</dtsf:KwotaB></jin:A_I><jin:A_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:A_II><jin:A_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:A_III><jin:A_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>10741.42</dtsf:KwotaB></jin:A_IV></jin:A><jin:B><dtsf:KwotaA>1091324.54</dtsf:KwotaA><dtsf:KwotaB>2087257.55</dtsf:KwotaB><jin:B_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:B_I><jin:B_II><dtsf:KwotaA>29320.90</dtsf:KwotaA><dtsf:KwotaB>54377.19</dtsf:KwotaB></jin:B_II><jin:B_III><dtsf:KwotaA>756415.48</dtsf:KwotaA><dtsf:KwotaB>1746406.21</dtsf:KwotaB></jin:B_III><jin:B_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>2142.49</dtsf:KwotaB><jin:B_IV_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:B_IV_1></jin:B_IV><jin:B_V><dtsf:KwotaA>112678.16</dtsf:KwotaA><dtsf:KwotaB>96500.00</dtsf:KwotaB></jin:B_V><jin:B_VI><dtsf:KwotaA>20472.45</dtsf:KwotaA><dtsf:KwotaB>19888.65</dtsf:KwotaB><jin:B_VI_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:B_VI_1></jin:B_VI><jin:B_VII><dtsf:KwotaA>172437.55</dtsf:KwotaA><dtsf:KwotaB>167943.01</dtsf:KwotaB></jin:B_VII><jin:B_VIII><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:B_VIII></jin:B><jin:C><dtsf:KwotaA>69644.07</dtsf:KwotaA><dtsf:KwotaB>357214.50</dtsf:KwotaB></jin:C><jin:D><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:D_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:D_I><jin:D_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:D_II><jin:D_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:D_III><jin:D_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:D_IV></jin:D><jin:E><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:E_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:E_I><jin:E_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:E_II><jin:E_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:E_III></jin:E><jin:F><dtsf:KwotaA>69644.07</dtsf:KwotaA><dtsf:KwotaB>357214.50</dtsf:KwotaB></jin:F><jin:G><dtsf:KwotaA>5403.94</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:G_I><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:G_I_A><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:G_I_A_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:G_I_A_1></jin:G_I_A><jin:G_I_B><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:G_I_B_1><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:G_I_B_1></jin:G_I_B></jin:G_I><jin:G_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:G_II_J><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:G_II_J></jin:G_II><jin:G_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:G_III_J><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:G_III_J></jin:G_III><jin:G_IV><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:G_IV><jin:G_V><dtsf:KwotaA>5403.94</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:G_V></jin:G><jin:H><dtsf:KwotaA>6527.29</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:H_I><dtsf:KwotaA>788.30</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:H_I_J><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:H_I_J></jin:H_I><jin:H_II><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB><jin:H_II_J><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:H_II_J></jin:H_II><jin:H_III><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:H_III><jin:H_IV><dtsf:KwotaA>5738.99</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:H_IV></jin:H><jin:I><dtsf:KwotaA>68520.72</dtsf:KwotaA><dtsf:KwotaB>357214.50</dtsf:KwotaB></jin:I><jin:J><dtsf:KwotaA>10278.00</dtsf:KwotaA><dtsf:KwotaB>53582.00</dtsf:KwotaB></jin:J><jin:K><dtsf:KwotaA>0.00</dtsf:KwotaA><dtsf:KwotaB>0.00</dtsf:KwotaB></jin:K><jin:L><dtsf:KwotaA>58242.72</dtsf:KwotaA><dtsf:KwotaB>303632.50</dtsf:KwotaB></jin:L></jin:RZiSPor></tns:RZiS><tns:DodatkoweInformacjeIObjasnieniaJednostkaInna><tns:DodatkoweInformacjeIObjasnienia><dtsf:Opis>informacja</dtsf:Opis><dtsf:Plik><dtsf:Nazwa>informacja.odt</dtsf:Nazwa>
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" xmlns:dtsf="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/" xmlns:jmi="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroStruktury" xmlns:jma="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury" xmlns:jin="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaInnaStruktury" xmlns:tns="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroWZlotych" targetNamespace="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroWZlotych" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0" xml:lang="pl">
+	<xsd:import namespace="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" schemaLocation="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/StrukturyDanych_v4-0E.xsd"/>
+	<xsd:import namespace="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/" schemaLocation="https://www.mf.gov.pl/documents/764034/6464789/StrukturyDanychSprFin_v1-0.xsd"/>
+	<xsd:import namespace="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroStruktury" schemaLocation="https://www.mf.gov.pl/documents/764034/6464789/JednostkaMikroStrukturyDanychSprFin_v1-0.xsd"/>
+	<xsd:import namespace="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury" schemaLocation="https://www.mf.gov.pl/documents/764034/6464789/JednostkaMalaStrukturyDanychSprFin_v1-0.xsd"/>
+	<xsd:import namespace="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaInnaStruktury" schemaLocation="https://www.mf.gov.pl/documents/764034/6464789/JednostkaInnaStrukturyDanychSprFin_v1-0.xsd"/>
+	<xsd:element name="JednostkaMikro">
+		<xsd:annotation>
+			<xsd:documentation>ZAKRES INFORMACJI WYKAZYWANYCH W SPRAWOZDANIU FINANSOWYM, O KTÓRYM MOWA W ART. 45 USTAWY, DLA JEDNOSTEK MIKRO</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Naglowek" type="jmi:TNaglowekSprawozdaniaFinansowegoJednostkaMikroWZlotych">
+					<xsd:annotation>
+						<xsd:documentation>Nagłówek sprawozdania finansowego</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:choice>
+					<xsd:element name="InformacjeOgolneJednostkaMikro">
+						<xsd:annotation>
+							<xsd:documentation>Informacje ogólne zgodnie z Załącznikiem Nr 4 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="P_1">
+									<xsd:annotation>
+										<xsd:documentation>Dane identyfikujące jednostkę</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_1A" type="dtsf:TNazwaSiedziba">
+												<xsd:annotation>
+													<xsd:documentation>Nazwa i siedziba</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1B" type="dtsf:TAdresZOpcZagranicznym">
+												<xsd:annotation>
+													<xsd:documentation>Adres</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1C" type="dtsf:TIdentyfikatorPodmiotu">
+												<xsd:annotation>
+													<xsd:documentation>Numer we własciwym rejestrze sądowym albo ewidencji </xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_2" type="dtsf:TZakresDatOpcjonalnych" minOccurs="0">
+									<xsd:annotation>
+										<xsd:documentation>Czas trwania działalności jednostki, jeżeli jest ograniczony</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_3" type="dtsf:TZakresDatSF">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie okresu objętego sprawozdaniem finansowym</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_4" type="etd:TTekstowy">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie zastosowanych zasad rachunkowości przewidzianych dla jednostek mikro z wyszczególnieniem wybranych uproszczeń</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_5">
+									<xsd:annotation>
+										<xsd:documentation>Założenie kontynuacji działalnności</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_5A" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie, czy sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej		przez jednostkę w dającej się przewidzieć przyszłości: true - sprawozdanie sporządzone przy założeniu kontynuowania działalności, false - sprawozdanie zostało sporzadzone przy zalożeniu, że działalność nie będzie kontynuowana</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_5B" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie, czy nie istnieją okoliczności wskazujące na zagrożenie kontynuowania przez nią działalności</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_5C" type="etd:TTekstowy" minOccurs="0">
+												<xsd:annotation>
+													<xsd:documentation>Opis okoliczności wskazujących na zagrożenie kontynuowania działalności</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_6">
+									<xsd:annotation>
+										<xsd:documentation>Zasady (polityka) rachunkowości</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_6A" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>Omówienie przyjętych zasad (polityki) rachunkowości, w zakresie w jakim ustawa pozostawia jednostce prawo wyboru, w tym:</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_6B" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>metod wyceny aktywów i pasywów (także amortyzacji)</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_6C" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>pomiaru wyniku finansowego oraz sposobu sporządzenia sprawozdania finansowego</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_7" type="dtsf:TPozycjaUzytkownika" minOccurs="0" maxOccurs="unbounded">
+									<xsd:annotation>
+										<xsd:documentation>Informacja uszczegóławiająca, wynikająca z potrzeb lub specyfiki jednostki</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="WprowadzenieDoSprawozdaniaFinansowegoJednostkaInna">
+						<xsd:annotation>
+							<xsd:documentation>Wprowadzenie do sprawozdania finansowego zgodnie z Załącznikiem Nr 1 do ustawy o rachunkowości ze wskazaniem zastosowanych zasad rachunkowości przewidzianych dla jednostek mikro z wyszczególnieniem wybranych uproszczeń</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="P_1">
+									<xsd:annotation>
+										<xsd:documentation>Dane identyfikujące jednostkę</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_1A" type="dtsf:TNazwaSiedziba">
+												<xsd:annotation>
+													<xsd:documentation>Firma, siedziba albo miejsce zamieszkania</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1B" type="dtsf:TAdresZOpcZagranicznym">
+												<xsd:annotation>
+													<xsd:documentation>Adres</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1C" type="dtsf:PKDPodstawowaDzialalnosc">
+												<xsd:annotation>
+													<xsd:documentation>Podstawowy przedmiot działalności jednostki</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1D" type="dtsf:TIdentyfikatorPodmiotu">
+												<xsd:annotation>
+													<xsd:documentation>Numer we właściwym rejestrze sądowym albo ewidencji </xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_2" type="dtsf:TZakresDatOpcjonalnych" minOccurs="0">
+									<xsd:annotation>
+										<xsd:documentation>Czas trwania działalności jednostki, jeżeli jest ograniczony</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_3" type="dtsf:TZakresDatSF">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie okresu objętego sprawozdaniem finansowym</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_4" type="xsd:boolean">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie, że sprawozdanie finansowe zawiera dane łączne, jeżeli w skład jednostki wchodzą wewnętrzne jednostki organizacyjne sporządzające samodzielne sprawozdania finansowe: true - sprawozdanie finansowe zawiera dane łącznie; false - sprawozdanie nie zawiera danych łącznych </xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_5">
+									<xsd:annotation>
+										<xsd:documentation>Założenie kontynuacji działalnności</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_5A" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie, czy sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej		przez jednostkę w dającej się przewidzieć przyszłości</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_5B" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie, czy nie istnieją okoliczności wskazujące na zagrożenie kontynuowania przez nią działalności</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_5C" type="etd:TTekstowy" minOccurs="0">
+												<xsd:annotation>
+													<xsd:documentation>Opis okoliczności wskazujących na zagrożenie kontynuowania działalności</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_6" minOccurs="0">
+									<xsd:annotation>
+										<xsd:documentation>Informacja czy sprawozdanie finansowe jest sporządzone po połączeniu spółek</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_6A" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>W przypadku sprawozdania finansowego sporządzonego za okres, w ciągu którego nastąpiło połączenie, wskazanie,
+że jest to sprawozdanie finansowe sporządzone po połączeniu spółek: true - sprawozdanie sporządzone po połączeniu spółek; false - sprawozdanie sporządzone przed połączeniem </xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_6B" type="etd:TTekstowy">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie zastosowanej metody rozliczenia połączenia (nabycia, łączenia udziałów)</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_7">
+									<xsd:annotation>
+										<xsd:documentation>Zasady (polityka) rachunkowości</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_7A" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>Omówienie przyjętych zasad (polityki) rachunkowości, w zakresie w jakim ustawa pozostawia jednostce prawo wyboru, w tym:</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_7B" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>metod wyceny aktywów i pasywów (także amortyzacji),</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_7C" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>ustalenia wyniku finansowego</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_7D" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>ustalenia sposobu sporządzenia sprawozdania finansowego</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_8" type="dtsf:TPozycjaUzytkownika" minOccurs="0" maxOccurs="unbounded">
+									<xsd:annotation>
+										<xsd:documentation>Informacja uszczegóławiająca, wynikająca z potrzeb lub specyfiki jednostki</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_9" type="etd:TTekstowy">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie zastosowanych zasad rachunkowości przewidzianych dla jednostek mikro z wyszczególnieniem wybranych uproszczeń</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala">
+						<xsd:annotation>
+							<xsd:documentation>Wprowadzenie do sprawozdania finansowego zgodnie z Załącznikiem Nr 5 do ustawy o rachunkowości ze wskazaniem zastosowanych zasad rachunkowości przewidzianych dla jednostek mikro z wyszczególnieniem wybranych uproszczeń</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="P_1">
+									<xsd:annotation>
+										<xsd:documentation>Dane identyfikujące jednostkę</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_1A" type="dtsf:TNazwaSiedziba">
+												<xsd:annotation>
+													<xsd:documentation>Firma, siedziba albo miejsce zamieszkania</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1B" type="dtsf:TAdresZOpcZagranicznym">
+												<xsd:annotation>
+													<xsd:documentation>Adres</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_1C" type="dtsf:TIdentyfikatorPodmiotu">
+												<xsd:annotation>
+													<xsd:documentation>Numer we własciwym rejestrze sądowym albo ewidencji </xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_2" type="dtsf:TZakresDatOpcjonalnych" minOccurs="0">
+									<xsd:annotation>
+										<xsd:documentation>Czas trwania działalności jednostki, jeżeli jest ograniczony</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_3" type="dtsf:TZakresDatSF">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie okresu objętego sprawozdaniem finansowym</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_4" type="etd:TTekstowy">
+									<xsd:annotation>
+										<xsd:documentation>Wskazanie zastosowanych zasad rachunkowości przewidzianych dla jednostek mikro z wyszczególnieniem wybranych uproszczeń</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="P_5">
+									<xsd:annotation>
+										<xsd:documentation>Założenie kontynuacji działalnności</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_5A" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie, czy sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej		przez jednostkę w dającej się przewidzieć przyszłości: true - sprawozdanie sporządzone przy założeniu kontynuowania działalności, false - sprawozdanie zostało sporzadzone przy zalożeniu, że działalność nie będzie kontynuowana</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_5B" type="xsd:boolean">
+												<xsd:annotation>
+													<xsd:documentation>Wskazanie, czy nie istnieją okoliczności wskazujące na zagrożenie kontynuowania przez nią działalności</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_5C" type="etd:TTekstowy" minOccurs="0">
+												<xsd:annotation>
+													<xsd:documentation>Opis okoliczności wskazujących na zagrożenie kontynuowania działalności</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_6">
+									<xsd:annotation>
+										<xsd:documentation>Zasady (polityka) rachunkowości</xsd:documentation>
+									</xsd:annotation>
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="P_6A" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>Omówienie przyjętych zasad (polityki) rachunkowości, w zakresie w jakim ustawa pozostawia jednostce prawo wyboru, w tym:</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_6B" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>metod wyceny aktywów i pasywów (także amortyzacji)</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+											<xsd:element name="P_6C" type="etd:TTekstowy" maxOccurs="unbounded">
+												<xsd:annotation>
+													<xsd:documentation>ustalenia wyniku finansowego oraz sposobu sporządzenia sprawozdania finansowego</xsd:documentation>
+												</xsd:annotation>
+											</xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+								<xsd:element name="P_7" type="dtsf:TPozycjaUzytkownika" minOccurs="0" maxOccurs="unbounded">
+									<xsd:annotation>
+										<xsd:documentation>Informacja uszczegóławiająca, wynikająca z potrzeb lub specyfiki jednostki</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:choice>
+					<xsd:element name="BilansJednostkaMikro" type="jmi:BilansJednostkaMikro">
+						<xsd:annotation>
+							<xsd:documentation>Bilans zgodnie z Załącznikiem Nr 4 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+					</xsd:element>
+					<xsd:element name="BilansJednostkaInna" type="jin:BilansJednostkaInna">
+						<xsd:annotation>
+							<xsd:documentation>Bilans zgodnie z Załącznikiem Nr 1 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+					</xsd:element>
+					<xsd:element name="BilansJednostkaMala" type="jma:BilansJednostkaMala">
+						<xsd:annotation>
+							<xsd:documentation>Bilans zgodnie z Załącznikiem Nr 5 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:choice>
+					<xsd:element name="RZiSJednostkaMikro" type="jmi:RZiSJednostkaMikro">
+						<xsd:annotation>
+							<xsd:documentation>Rachunek zysków i strat zgodnie z Załącznikiem Nr 4 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+					</xsd:element>
+					<xsd:element name="RZiSJednostkaInna" type="jin:RZiSJednostkaInna">
+						<xsd:annotation>
+							<xsd:documentation>Rachunek zysków i strat zgodnie z Załącznikiem Nr 1 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+					</xsd:element>
+					<xsd:element name="RZiSJednostkaMala" type="jma:RZiSJednostkaMala">
+						<xsd:annotation>
+							<xsd:documentation>Rachunek zysków i strat zgodnie z Załącznikiem Nr 5 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:element name="ZestZmianWKapitaleJednostkaInna" type="jin:ZestZmianWKapitaleJednostkaInna" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Zestawienie zmian w kapitale (funduszu) własnym</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="RachPrzeplywowJednostkaInna" type="jin:RachPrzeplywowJednostkaInna" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Rachunek przepływów pieniężnych</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:choice>
+					<xsd:element name="InformacjeUzupelniajaceDoBilansuJednostkaMikro">
+						<xsd:annotation>
+							<xsd:documentation>Informacje uzupełniające do bilansu zgodnie z Załącznikiem Nr 4 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="InformacjeUzupelniajaceDoBilansu" type="dtsf:TInformacjaDodatkowa" maxOccurs="unbounded">
+									<xsd:annotation>
+										<xsd:documentation>Informacje uzupełniające do bilansu</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="InformacjaDodatkowaDotyczacaPodatkuDochodowego" type="dtsf:TInformacjaDodatkowaDotyczacaPodatkuDochodowego" minOccurs="0">
+									<xsd:annotation>
+										<xsd:documentation>Rozliczenie różnicy pomiędzy podstawą opodatkowania podatkiem dochodowym a wynikiem finansowym (zyskiem, stratą) brutto</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="DodatkoweInformacjeIObjasnieniaJednostkaInna">
+						<xsd:annotation>
+							<xsd:documentation>Dodatkowe informacje i objaśnienia zgodnie z Załącznikiem Nr 1 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="DodatkoweInformacjeIObjasnienia" type="dtsf:TInformacjaDodatkowa" maxOccurs="unbounded">
+									<xsd:annotation>
+										<xsd:documentation>Dodatkowe informacje i objaśnienia</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="InformacjaDodatkowaDotyczacaPodatkuDochodowego" type="dtsf:TInformacjaDodatkowaDotyczacaPodatkuDochodowegoTys">
+									<xsd:annotation>
+										<xsd:documentation>Rozliczenie różnicy pomiędzy podstawą opodatkowania podatkiem dochodowym a wynikiem finansowym (zyskiem, stratą) brutto</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="DodatkoweInformacjeIObjasnieniaJednostkaMala">
+						<xsd:annotation>
+							<xsd:documentation>Dodatkowe informacje i objaśnienia zgodnie z Załącznikiem Nr 5 do ustawy o rachunkowości</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="DodatkoweInformacjeIObjasnienia" type="dtsf:TInformacjaDodatkowa" maxOccurs="unbounded">
+									<xsd:annotation>
+										<xsd:documentation>Dodatkowe informacje i objaśnienia</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+								<xsd:element name="InformacjaDodatkowaDotyczacaPodatkuDochodowego" type="dtsf:TInformacjaDodatkowaDotyczacaPodatkuDochodowego" minOccurs="0">
+									<xsd:annotation>
+										<xsd:documentation>Rozliczenie różnicy pomiędzy podstawą opodatkowania podatkiem dochodowym a wynikiem finansowym (zyskiem, stratą) brutto</xsd:documentation>
+									</xsd:annotation>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
